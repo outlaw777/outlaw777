@@ -66,4 +66,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 ## Projects
 - <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a> 
 - SOC Project
-- Amazon Cloud S3 
+- Amazon Cloud S3- Analyze Network Traffic with Tcpdump
+- Wireshark for Beginners Capture Packets
+- Home Lab Network with Pfsense
+- 
