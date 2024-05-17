@@ -21,7 +21,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 | Incident Response Planning and Execution      | SOC Lab|
 | Configuring Identity and Access Management Controls     | Lab|
 | Managing Certificates with OpenSSL                      | Lab|
-| Managing Centrailized Authentication                    |  <a href="https://github.com/outlaw777/Lab/tree/main">Lab</a>|
+| Managing Centrailized Authentication                    |  <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Lab</a>|
 
 ## Tools
 
