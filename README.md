@@ -64,13 +64,13 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 <img src="https://img.shields.io/badge/-CompTIA Security%2B ce-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 <div>
-    <img src="https://img.shields.io/badge/Oracle Cloud Infrastructure 2023 Al Certified Foundations Associate-FF0000?&style=for-the-badge&logo=Oracle&logoColor=gray" />
+    <img src="https://img.shields.io/badge/Oracle Cloud Infrastructure 2023 Al Certified Foundations Associate-FF9900?&style=for-the-badge&logo=Oracle&logoColor=gray" />
 </div>
-<div> <img src="https://img.shields.io/badge/Qualys Endpoint Detection and Response Foundations-FF0000?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
+<div> <img src="https://img.shields.io/badge/Qualys Endpoint Detection and Response Foundations-005571?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
     
 </div>
 <div>
-    <img src="https://img.shields.io/badge/Qualys Certified Specialist Vulnerability Management Detection and Response-FF0000?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
+    <img src="https://img.shields.io/badge/Qualys Certified Specialist Vulnerability Management Detection and Response-000000?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
 </div>
 
 ## Projects
