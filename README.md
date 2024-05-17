@@ -75,7 +75,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 
 ## Projects
 - <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>
-- <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Lab</a>|
+- <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>|
 - SOC Project
 - Amazon Cloud S3
 - Wireshark for Beginners Capture Packets
