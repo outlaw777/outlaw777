@@ -34,7 +34,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
     
 </div>
 
-### Network Virtual Appliances
+### Network Virtual Appliance
 <div>
     <img src="https://img.shields.io/badge/-PfSense-EF3B2D?&style=for-the-badge&logo=PfSense&logoColor=white" />
 </div>
