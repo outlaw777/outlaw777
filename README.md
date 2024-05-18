@@ -70,7 +70,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
     
 </div>
 <div>
-    <img src="https://img.shields.io/badge/Qualys Certified Specialist Vulnerability Management Detection and Response-000000?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
+    <img src="https://img.shields.io/badge/Qualys Certified Specialist Vulnerability Management Detection and Response-00A4EF?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
 </div>
 
 ## Projects
