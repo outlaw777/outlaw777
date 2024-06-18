@@ -8,7 +8,7 @@ I recently recevice CompTia Security+ cerification I'm interest in technology an
 ## Objective
 
 
-My journey in Infomation Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to be a Cyber Security Analyst
+My journey in Infomation Technology has led me to develop a passion for cybersecurity, specifically aiming to be a Cyber Security Analyst
 
 ## Skills
 
