@@ -22,7 +22,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 | Configuring Identity and Access Management Controls     | Lab|
 | Managing Certificates with OpenSSL                      | Lab|
 | Managing Centrailized Authentication                    |  <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>|
-| Generate telemetry and detect malicious activity using Splunk | <a href="https://https://github.com/outlaw777/Splunk-Detection-Lab/tree/main">Detection Lab</a>|
+| Generate telemetry and detect malicious activity using Splunk | <a href="https://https://github.com/outlaw777/Splunk-Detection-Lab">Detection Lab</a>|
 
 
 ## Tools
