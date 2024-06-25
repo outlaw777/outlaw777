@@ -83,3 +83,4 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 - Wireshark for Beginners Capture Packets
 - Home Lab Network with Pfsense
 - Analyze Network Traffic with Tcpdump
+- Generate telemetry and detect malicious activity using Splunk
