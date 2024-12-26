@@ -23,7 +23,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 | Managing Certificates with OpenSSL                      | Lab|
 | Managing Centrailized Authentication                    |  <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>|
 | Generate telemetry and detect malicious activity using Splunk | <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
-| Onboard Automator (Manage Azure identities and governance) |  <a href="https://github.com/outlaw777/Azure Services-Lab/tree/main">Azure Services Lab</a>|
+| Onboard Automator (Manage Azure identities and governance) |  <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>|
 
 
 
@@ -88,4 +88,4 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 - Home Lab Network with Pfsense
 - Analyze Network Traffic with Tcpdump
 - <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Generate telemetry and detect malicious activity using Splunk</a>
-- <a href="https://github.com/outlaw777/Azure Services-Lab/tree/main">Azure Services Lab</a>|
+- <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>|
