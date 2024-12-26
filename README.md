@@ -58,7 +58,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     
 </div>
 
