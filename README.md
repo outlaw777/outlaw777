@@ -18,9 +18,6 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>|
 | Configuring an Intrusion Detection System         | <a href="https://github.com/outlaw777/SOC-Lab">SOC Lab</a>|
-| Incident Response Planning and Execution      | SOC Lab|
-| Configuring Identity and Access Management Controls     | Lab|
-| Managing Certificates with OpenSSL                      | Lab|
 | Managing Centrailized Authentication                    |  <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>|
 | Generate telemetry and detect malicious activity using Splunk | <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
 | Onboard Automator (Manage Azure identities and governance) |  <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>|
@@ -84,8 +81,5 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 - <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>
 - <a href="https://github.com/outlaw777/SOC-Lab">SOC Project</a>
-- Wireshark for Beginners Capture Packets
-- Home Lab Network with Pfsense
-- Analyze Network Traffic with Tcpdump
 - <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Generate telemetry and detect malicious activity using Splunk</a>
 - <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>
