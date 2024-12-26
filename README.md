@@ -23,6 +23,8 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 | Managing Certificates with OpenSSL                      | Lab|
 | Managing Centrailized Authentication                    |  <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>|
 | Generate telemetry and detect malicious activity using Splunk | <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
+| Onboard Automator (Manage Azure identities and governance) |  <a href="https://github.com/outlaw777/Azure Services-Lab/tree/main">Azure Services Lab</a>|
+
 
 
 ## Tools
@@ -74,13 +76,16 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 <div>
     <img src="https://img.shields.io/badge/Qualys Certified Specialist Vulnerability Management Detection and Response-00A4EF?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
 </div>
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft Certified: Azure Fundamentals%2B-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
 
 ## Projects
 - <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>
 - <a href="https://github.com/outlaw777/SOC-Lab">SOC Project</a>
-- Amazon Cloud S3
 - Wireshark for Beginners Capture Packets
 - Home Lab Network with Pfsense
 - Analyze Network Traffic with Tcpdump
 - <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Generate telemetry and detect malicious activity using Splunk</a>
+- <a href="https://github.com/outlaw777/Azure Services-Lab/tree/main">Azure Services Lab</a>|
