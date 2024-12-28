@@ -75,7 +75,11 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
     <img src="https://img.shields.io/badge/Qualys Certified Specialist Vulnerability Management Detection and Response-00A4EF?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
 </div>
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Certified:%20Azure%20Fundamentals%2B-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Certified: Azure Fundamentals" />
+  <img 
+    src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-005571?style=for-the-badge&logo=Microsoft&logoColor=Orange" 
+    alt="Microsoft Certified: Azure Fundamentals" 
+    title="Microsoft Certified: Azure Fundamentals" 
+/>
 
 
 </div>
@@ -86,4 +90,4 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 - <a href="https://github.com/outlaw777/SOC-Lab">SOC Project</a>
 - <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Generate telemetry and detect malicious activity using Splunk</a>
 - <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>
-- <a href="https://github.com/outlaw777/azure-resume/tree/main">Azure Resume</a>|
+- <a href="https://github.com/outlaw777/azure-resume/tree/main">Azure Resume</a>
