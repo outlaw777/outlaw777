@@ -75,7 +75,9 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
     <img src="https://img.shields.io/badge/Qualys Certified Specialist Vulnerability Management Detection and Response-00A4EF?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
 </div>
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft Certified: Azure Fundamentals%2B-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Certified:%20Azure%20Fundamentals%2B-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Certified: Azure Fundamentals" />
+
+
 </div>
 
 ## Projects
