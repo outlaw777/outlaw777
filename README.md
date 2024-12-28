@@ -3,7 +3,7 @@
 
 
 
-I recently recevice CompTia Security+ cerification I'm interest in technology and a dedication to solving complex problems.
+I recently recevice CompTia Security+ cerification and Microsoft Certified: Azure Fundamentals I'm interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
