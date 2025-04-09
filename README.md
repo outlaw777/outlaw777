@@ -42,6 +42,12 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
     <img src="https://img.shields.io/badge/-PfSense-EF3B2D?&style=for-the-badge&logo=PfSense&logoColor=white" />
 </div>
 
+<div>
+    <img src="https://img.shields.io/badge/-Qualys_Virtual_Scanner-A6182B?style=for-the-badge&logo=Qualys&logoColor=white" />
+
+
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
