@@ -81,8 +81,9 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
     alt="Microsoft Certified: Azure Fundamentals" 
     title="Microsoft Certified: Azure Fundamentals" 
 />
-
-
+</div>
+<div>
+    <img src="https://img.shields.io/badge/Certified IriusRisk Administrator-FF9900?&style=for-the-badge&logo=Oracle&logoColor=gray" />
 </div>
 
 ## Projects
