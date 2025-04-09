@@ -22,7 +22,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 | Generate telemetry and detect malicious activity using Splunk | <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
 | Onboard Automator (Manage Azure identities and governance) |  <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>|
 | Azure Resume Build Your Resume on Azure whth Blob Storage | <a href="https://github.com/outlaw777/azure-resume/tree/main">Azure Resume</a>|
-| Vulnerability Context Considerations |  <a href="https://github.com/outlaw777/Vulnerability Context Considerations/tree/main">Vulnerability Context Considerations</a>|
+| Vulnerability Context Considerations |  <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>|
 
 
 
