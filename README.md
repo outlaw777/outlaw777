@@ -89,7 +89,8 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 />
 </div>
 <div>
-    <img src="https://img.shields.io/badge/Certified IriusRisk Administrator-FF9900?&style=for-the-badge&logo=Oracle&logoColor=gray" />
+    <img src="https://img.shields.io/badge/Certified IriusRisk Administrator-FF9900?style=for-the-badge&logo=IriusRisk&logoColor=white" />
+
 </div>
 
 ## Projects
