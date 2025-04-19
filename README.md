@@ -23,7 +23,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 | Onboard Automator (Manage Azure identities and governance) |  <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>|
 | Azure Resume Build Your Resume on Azure whth Blob Storage | <a href="https://github.com/outlaw777/azure-resume/tree/main">Azure Resume</a>|
 | Vulnerability Context Considerations |  <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>|
-| Building-a-SOC-Honeynet-in-Azure-Live-Traffic- (Live Traffic) | <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-(Live Traffic)/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
+| Building-a-SOC-Honeynet-in-Azure-Live-Traffic- (Live Traffic) | <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
 
 
 
