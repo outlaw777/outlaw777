@@ -102,3 +102,4 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 - <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>
 - <a href="https://github.com/outlaw777/azure-resume/tree/main">Azure Resume</a>
 - <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>
+- <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
