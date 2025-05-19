@@ -3,7 +3,7 @@
 
 
 
-Experienced professional with a proven track record in designing, implementing, and managing robust security architectures. Skilled in conducting thorough risk assessments and developing effective strategies to mitigate potential threats. CompTia Security+ cerification and Microsoft Certified: Azure Fundamentals I'm interest in technology and a dedication to solving complex problems.
+Experienced professional with a proven track record in designing, implementing, and managing robust security architectures. Skilled in conducting thorough risk assessments and developing effective strategies to mitigate potential threats. CompTia Security+ Comptia CySA+ cerification and Microsoft Certified: Azure Fundamentals I'm interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
@@ -70,6 +70,9 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 
 
 ## Certifications
+<div>
+    <img src="https://img.shields.io/badge/-CompTIA CySA%2B ce-2E8B57?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 <div>
 <img src="https://img.shields.io/badge/-CompTIA Security%2B ce-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
