@@ -24,7 +24,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Azure Resume Build Your Resume on Azure whth Blob Storage | <a href="https://github.com/outlaw777/azure-resume/tree/main">Azure Resume</a>|
 | Vulnerability Context Considerations |  <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>|
 | Building a SOC Honeynet in Azure Live Traffic (Live Traffic) | <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
-| Group & Role Enumeration in AWS | 
+| Group & Role Enumeration in AWS | <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>|
 
 
 
