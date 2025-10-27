@@ -3,12 +3,12 @@
 
 
 
-Experienced professional with a proven track record in designing, implementing, and managing robust security architectures. Skilled in conducting thorough risk assessments and developing effective strategies to mitigate potential threats. CompTia Security+ CompTia CySA+ cerification and Microsoft Certified: Azure Fundamentals I'm interest in technology and a dedication to solving complex problems.
+Experienced professional with a proven track record in designing, implementing, and managing robust security architectures. Skilled in conducting thorough risk assessments and developing effective strategies to mitigate potential threats. CompTIA Security+, CompTIA CySA+ certification, and Microsoft Certified: Azure Fundamentals. I'm interested in technology and dedicated to solving complex problems.
 
 ## Objective
 
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, specifically aiming to be a Cyber Security Analyst
+My journey in Information Technology has led me to develop a passion for cybersecurity, specifically as a Cyber Security Analyst.
 
 ## Skills
 
