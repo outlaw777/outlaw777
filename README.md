@@ -21,7 +21,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Managing Centrailized Authentication                    |  <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>|
 | Generate telemetry and detect malicious activity using Splunk | <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
 | Onboard Automator (Manage Azure identities and governance) |  <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>|
-| Azure Resume Build Your Resume on Azure whth Blob Storage | <a href="https://github.com/outlaw777/azure-resume/tree/main">Azure Resume</a>|
 | Vulnerability Context Considerations |  <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>|
 | Building a SOC Honeynet in Azure Live Traffic (Live Traffic) | <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
 | Group & Role Enumeration in AWS | <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>|
@@ -105,7 +104,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/outlaw777/SOC-Lab">SOC Project</a>
 - <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Generate telemetry and detect malicious activity using Splunk</a>
 - <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>
-- <a href="https://github.com/outlaw777/azure-resume/tree/main">Azure Resume</a>
 - <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>
 - <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
 - <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>
+- <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>
