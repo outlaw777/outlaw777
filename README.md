@@ -26,7 +26,7 @@ My career in Information Technology has evolved into a strong focus on cybersecu
 | Group & Role Enumeration in AWS | <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>|
 | AWS VPC Architecture | <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>|
 | AWS Cybersecurity Lab VPC Architecture | <a href="https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab</a>| 
-| AWS Hospital Cloud Architecture | <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital"> AWS Hospital Cloud</a>|
+| AWS Hospital Cloud Architecture | <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>|
 
 
 ## Tools
@@ -110,3 +110,4 @@ My career in Information Technology has evolved into a strong focus on cybersecu
 - <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>
 - <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>
 - <a href="https://https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab<a/>
+- <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>
