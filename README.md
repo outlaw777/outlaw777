@@ -8,7 +8,7 @@ Experienced professional with a proven track record in designing, implementing, 
 ## Objective
 
 
-My career in Information Technology has evolved into a strong focus on cybersecurity and AWS cloud architecture, shaping my development as a Cyber Security Analyst and Cloud Engineer.
+My career in Information Technology has evolved into a strong focus on cybersecurity and AWS cloud architecture, shaping my development as a Cloud Security Engineer.
 
 ## Skills
 
