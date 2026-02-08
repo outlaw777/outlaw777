@@ -27,7 +27,7 @@ My career in Information Technology has evolved into a strong focus on cybersecu
 | AWS VPC Architecture | <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>|
 | AWS Cybersecurity Lab VPC Architecture | <a href="https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab</a>| 
 | AWS Hospital Cloud Architecture | <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>|
-| Al Agentic Program | <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Al Agentic Program<a/>|
+| Agentic AI Program | <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program<a/>|
 
 
 ## Tools
@@ -112,4 +112,4 @@ My career in Information Technology has evolved into a strong focus on cybersecu
 - <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture</a>
 - <a href="https://https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab<a/>
 - <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>
-- <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Al Agentic Program</a>
+- <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program</a>
