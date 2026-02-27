@@ -114,4 +114,4 @@ My career in Information Technology has evolved into a strong focus on cybersecu
 - <a href="https://https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab<a/>
 - <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>
 - <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program</a>
-- <a href="https://github.com/outlaw777/apiflaskdatabase">API Database</a>|
+- <a href="https://github.com/outlaw777/apiflaskdatabase">API Database</a>
