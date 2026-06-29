@@ -2,8 +2,10 @@
 <a href="https://www.linkedin.com/in/james-mccoy-iii-251a75290/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
+CEO & Lead Cybersecurity Architect at Shield Protocol LLC  
+TS/SCI | DoD 8140.03 Expert (511/612)  
+NIST SP 800‑171 • CMMC Level 2 • RMF • DFARS 7012
 
-Experienced professional with a proven track record in designing, implementing, and managing robust security architectures. Skilled in conducting thorough risk assessments and developing effective strategies to mitigate potential threats. CompTIA Security+, CompTIA CySA+ certifications, and Microsoft Certified: Azure Fundamentals. I'm interested in technology and dedicated to solving complex problems.
 
 ## Objective
 
