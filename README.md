@@ -12,7 +12,7 @@ I specialize in cyber defense analysis, security control assessment, and complia
 ## Objective
 
 
-To build and maintain tools, templates, and workflows that strengthen cybersecurity, compliance, and mission assurance for DoD contractor environments. My focus is on cyber defense analysis, security control assessment, NIST SP 800‑171 compliance, RMF documentation, and threat‑intelligence‑driven vulnerability remediation.
+To develop and share non‑sensitive cybersecurity tools, labs, and automation workflows that support cyber defense analysis, threat intelligence fusion, cloud security architecture, and hands‑on technical skill development. My focus is on building practical, reproducible projects that strengthen defensive capabilities for modern networks and cloud environments.
 
 ## Skills
 
