@@ -6,6 +6,8 @@ CEO & Lead Cybersecurity Architect at Shield Protocol LLC
 TS/SCI | DoD 8140.03 Expert (511/612)  
 NIST SP 800‑171 • CMMC Level 2 • RMF • DFARS 7012
 
+I specialize in cyber defense analysis, security control assessment, and compliance documentation for DoD contractor environments. With 6.5 years supporting federal defense contractors, I build tools, templates, and workflows that strengthen NIST SP 800‑171 compliance, improve vulnerability analysis, and support RMF documentation.
+
 
 ## Objective
 
