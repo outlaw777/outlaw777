@@ -12,7 +12,7 @@ I specialize in cyber defense analysis, security control assessment, and complia
 ## Objective
 
 
-My career in Information Technology has evolved into a strong focus on cybersecurity and AWS cloud architecture, shaping my development as a Cloud Security Engineer.
+To build and maintain tools, templates, and workflows that strengthen cybersecurity, compliance, and mission assurance for DoD contractor environments. My focus is on cyber defense analysis, security control assessment, NIST SP 800‑171 compliance, RMF documentation, and threat‑intelligence‑driven vulnerability remediation.
 
 ## Skills
 
