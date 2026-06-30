@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/james-mccoy-iii-251a75290/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-CEO & Lead Cybersecurity Architect at SHIELD Protocol LLC  
+CEO & Principal Cybersecurity Architect at SHIELD Protocol LLC  
 TS/SCI | DoD 8140.03 Expert (511/612)  
 NIST SP 800‑171 • CMMC Level 2 • RMF • DFARS 7012
 
