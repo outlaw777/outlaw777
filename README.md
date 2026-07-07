@@ -2,22 +2,25 @@
 <a href="https://www.linkedin.com/in/james-mccoy-iii-251a75290/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-CEO & Principal Cybersecurity Architect at SHIELD Protocol LLC  
+## CEO & Principal Cybersecurity Architect at SHIELD Protocol LLC  
 TS/SCI | DoD 8140.03 Expert (511/612)  
 NIST SP 800‑171 • CMMC Level 2 • RMF • DFARS 7012
 
 I specialize in cyber defense analysis, security control assessment, and compliance documentation for DoD contractor environments. With 6.5 years supporting federal defense contractors, I build tools, templates, and workflows that strengthen NIST SP 800‑171 compliance, improve vulnerability analysis, and support RMF documentation.
 
+---
 
-## About SHIELD Protocol LLC
+# About SHIELD Protocol LLC
 SHIELD Protocol LLC provides mission‑focused cybersecurity and technical assurance services to federal defense contractors, specializing in cyber defense analysis, security control assessment, and threat‑intelligence‑driven remediation workflows.
 
-## Objective
+---
 
-
+# Objective
 To develop and share non‑sensitive cybersecurity tools, labs, and automation workflows that support cyber defense analysis, threat intelligence fusion, cloud security architecture, and hands‑on technical skill development. My focus is on building practical, reproducible projects that strengthen defensive capabilities for modern networks and cloud environments.
 
+---
 
+# Four Capability Domains
 
 ## Mission Assurance Architecture               
 - **AWS VPC Architecture** -  <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>
@@ -42,25 +45,19 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 - **Flask + SQLAlchemy + PostgreSQL API** - <a href="https://github.com/outlaw777/apiflaskdatabase">API Database</a>
 - **Vulnerability Context Considerations** - <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>
 
-
+---
 
 
 # Federal Contractor Focus Areas
-- Cyber Defense Analysis (DCWF 511)
+- **Cyber Defense Analysis (DCWF 511)**
+- **Security Control Assessment (DCWF 612)**
+- **Threat Intelligence Fusion (KEV, EPSS, OTX, MITRE)**
+- **Enclave Segmentation**
+- **CUI Lifecycle Management**
+- **RMF Documentation (non‑sensitive examples only)**
+- **NIST SP 800‑171 interpretation (no templates)**
 
-- Security Control Assessment (DCWF 612)
-
-- Threat Intelligence Fusion (KEV, EPSS, OTX, MITRE)
-
-- Enclave Segmentation
-
-- CUI Lifecycle Management
-
-- RMF Documentation (non‑sensitive examples only)
-
-- NIST SP 800‑171 interpretation (no templates)
-
-## Tools
+# Tools
 
 ### Network
 <div>
