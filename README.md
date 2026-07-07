@@ -99,7 +99,7 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 </div>
 
 
-## Certifications
+### Certifications
 <div>
     <img src="https://img.shields.io/badge/-CompTIA CySA%2B ce-2E8B57?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
@@ -127,7 +127,7 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 
 </div>
 
-## Projects
+# Projects
 - <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>
 - <a href="https://github.com/outlaw777/SOC-Lab">SOC Project</a>
