@@ -19,7 +19,8 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 
 ## Four domains
 
-## Mission Assurance Architecture
+|  Mission Assurance Architecture               |                            |
+|-----------------------------------------------|----------------------------|
 | AWS VPC Architecture  |<a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>|
 | AWS Hospital Cloud    |<a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>|
 | AWS Cybersecurity Lab  |<a href="https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab</a>| 
