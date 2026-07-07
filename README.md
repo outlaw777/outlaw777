@@ -107,7 +107,7 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 <img src="https://img.shields.io/badge/-CompTIA Security%2B ce-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 <div>
-    <img src="https://img.shields.io/badge/Oracle Cloud Infrastructure 2023 Al Certified Foundations Associate-FF9900?&style=for-the-badge&logo=Oracle&logoColor=gray" />
+    <img src="https://img.shields.io/badge/Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate-FF9900?&style=for-the-badge&logo=Oracle&logoColor=gray" />
 </div>
 <div> <img src="https://img.shields.io/badge/Qualys Endpoint Detection and Response Foundations-005571?&style=for-the-badge&logo=Qualys&logoColor=Orange" />
     
@@ -117,11 +117,12 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 </div>
 <div>
   <img 
-    src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-005571?style=for-the-badge&logo=Microsoft&logoColor=Orange" 
-    alt="Microsoft Certified: Azure Fundamentals" 
-    title="Microsoft Certified: Azure Fundamentals" 
-/>
+    src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"
+    alt="Microsoft Certified: Azure Fundamentals"
+    title="Microsoft Certified: Azure Fundamentals"
+  />
 </div>
+
 <div>
     <img src="https://img.shields.io/badge/Certified IriusRisk Administrator-FF9900?style=for-the-badge&logo=IriusRisk&logoColor=white" />
 
@@ -129,13 +130,13 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 
 # Projects
 - <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>
-- <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centrailzed Authentication Lab</a>
+- <a href="https://github.com/outlaw777/Centralized-Authentication-Lab-">Centralized Authentication Lab</a>
 - <a href="https://github.com/outlaw777/SOC-Lab">SOC Project</a>
 - <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Generate telemetry and detect malicious activity using Splunk</a>
 - <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>
 - <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>
 - <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
-- <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>
+- <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Enumeration in AWS</a>
 - <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture</a>
 - <a href="https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab<a/>
 - <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>
