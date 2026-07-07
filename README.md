@@ -17,7 +17,7 @@ SHIELD Protocol LLC provides mission‑focused cybersecurity and technical assur
 
 To develop and share non‑sensitive cybersecurity tools, labs, and automation workflows that support cyber defense analysis, threat intelligence fusion, cloud security architecture, and hands‑on technical skill development. My focus is on building practical, reproducible projects that strengthen defensive capabilities for modern networks and cloud environments.
 
-### Four domains
+
 
 ## Mission Assurance Architecture               
 - **AWS VPC Architecture** -  <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>
