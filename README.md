@@ -37,7 +37,7 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 - **Honeynet in Azure (Live Traffic)** - <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
 
 ## Security Automation & AI Engineering         
-- **Agentic AI Program** -  <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program<a/>
+- **Agentic AI Program** -  <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program</a>
 - **Telemetry generation** - <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>
 - **Automated detection pipelines** - <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program<a/>
 
@@ -137,7 +137,7 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 - <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
 - <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>
 - <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture</a>
-- <a href="https://https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab<a/>
+- <a href="https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab<a/>
 - <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>
 - <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program</a>
 - <a href="https://github.com/outlaw777/apiflaskdatabase">API Database</a>
