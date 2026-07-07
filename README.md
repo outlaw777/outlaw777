@@ -20,27 +20,27 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 ## Four domains
 
 ## Mission Assurance Architecture
-- AWS VPC Architecture  | <a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>|
-- AWS Hospital Cloud     | <a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>|
-- AWS Cybersecurity Lab  | <a href="https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab</a>| 
-- Group & Role Enumeration in AWS  | <a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>|
-- Azure Identity Governance(Automator)  |  <a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>|
+| AWS VPC Architecture  |<a href="https://github.com/outlaw777/AWS-VPC-Architecture">AWS VPC Architecture </a>|
+| AWS Hospital Cloud    |<a href="https://github.com/outlaw777/AWSCloudRiversideGeneralHospital">AWS Hospital Cloud</a>|
+| AWS Cybersecurity Lab  |<a href="https://github.com/outlaw777/AWSCybersecurityLab">AWS Cybersecurity Lab</a>| 
+| Group & Role Enumeration in AWS  |<a href="https://github.com/outlaw777/Group-Role-Enumeration-in-AWS/tree/main">Group & Role Eumeration in AWS</a>|
+| Azure Identity Governance(Automator) |<a href="https://github.com/outlaw777/Azure-Lab/tree/main">Azure Lab</a>|
 
 ## Detection & Telemetry Engineering
-- SIEM Implementation & Log Analysis | <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>|
-- Splunk Detection Lab   | <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
-- Network Traffic Monitoring  | <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>|
-- IDS Configuration (SOC Lab) | <a href="https://github.com/outlaw777/SOC-Lab">SOC Lab</a>|
-- Honeynet in Azure (Live Traffic) | <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>
+| SIEM Implementation & Log Analysis |<a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>|
+| Splunk Detection Lab  |<a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
+| Network Traffic Monitoring  | <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>|
+| IDS Configuration (SOC Lab) | <a href="https://github.com/outlaw777/SOC-Lab">SOC Lab</a>|
+| Honeynet in Azure (Live Traffic) | <a href="https://github.com/outlaw777/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-/tree/main">Building-a-SOC-Honeynet-in-Azure-Live-Traffic-Lab</a>|
 
 ## Security Automation & AI
-- Agentic AI Program | <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program<a/>|
-- Telemetry generation | <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
-- Automated detection pipelines | <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program<a/>|
+| Agentic AI Program | <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program<a/>|
+| Telemetry generation | <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>|
+| Automated detection pipelines | <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program<a/>|
 
 ## Application & Data Engineering
-- Flask + SQLAlchemy + PostgreSQL API | <a href="https://github.com/outlaw777/apiflaskdatabase">API Database</a>|
-- Vulnerability Context Considerations  |  <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>|
+| Flask + SQLAlchemy + PostgreSQL API | <a href="https://github.com/outlaw777/apiflaskdatabase">API Database</a>|
+| Vulnerability Context Considerations  |  <a href="https://github.com/outlaw777/Vulnerability-Context-Considerations/tree/main">Vulnerability Context Considerations</a>|
 
 
 | Skill                                         | Associated Project         |
