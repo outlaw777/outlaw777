@@ -41,7 +41,7 @@ To develop and share non‑sensitive cybersecurity tools, labs, and automation w
 ## Security Automation & AI Engineering         
 - **Agentic AI Program** -  <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program</a>
 - **Telemetry generation** - <a href="https://github.com/outlaw777/Splunk-Detection-Lab">Splunk-Detection Lab</a>
-- **Automated detection pipelines** - <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Agentic AI Program<a/>
+- **Automated detection pipelines** - <a href="https://github.com/outlaw777/AIAgenticProgram/tree/main">Automated detection pipelines<a/>
 
 ## Application & Data Platform Engineering     
 - **Flask + SQLAlchemy + PostgreSQL API** - <a href="https://github.com/outlaw777/apiflaskdatabase">API Database</a>
